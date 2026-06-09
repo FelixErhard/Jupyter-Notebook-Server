@@ -23,6 +23,9 @@ ui:
     - id: resources
       title: "Ressourcen"
       order: 3
+      
+email_credentials:        # ← NEU
+  enabled: true           # ← NEU
 
 
 parameters:
